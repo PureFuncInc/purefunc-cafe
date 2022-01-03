@@ -18,7 +18,7 @@ async def on_message(message):
         return
 
     if message.content.startswith("!raffle cafe"):
-        channel = client.get_channel(921677421869158422)
+        channel = client.get_channel(69158422)
 
         user_ids = []
         for user in channel.voice_states.keys():
