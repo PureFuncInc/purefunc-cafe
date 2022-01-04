@@ -1,4 +1,5 @@
 # purefunc-cafe
+![](https://raw.githubusercontent.com/PureFuncInc/purefunc-cafe/main/images/logo.png)
 
 # Introduction
 * 舉辦時間: 2022 每週三 晚上九點
