@@ -42,6 +42,7 @@
 * https://www.facebook.com/shengyoufan
 
 # 社群參考
+* Taiwan Backend Group
 * GDG
 * TWJUG
 * Front-End Developers Taiwan
@@ -54,5 +55,5 @@
 * node.js台灣
 * Go程式語言 (Golang Taiwan, Gopher Taipei)
 * Python Taiwan
-* ...
 * Test Corner
+* ...
