@@ -37,6 +37,9 @@
   * QA
   * ...
 
+# 自由提問
+* 下一次來加更多互動的元素！
+
 # 下個禮拜
 * 范聖佑: JetBrains 傳教士
 * https://www.facebook.com/shengyoufan
