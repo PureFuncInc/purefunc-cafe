@@ -1,8 +1,6 @@
-# YouTube
-* [待補]()
+# [YouTube](https://youtu.be/hOQOa8_srJU)
 
-# Podcast
-* [待補]()
+# Podcast (待補)
 
 # 開場
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
