@@ -14,7 +14,7 @@
 # 筆記
 * 大
 
-# DeveLoper Career FAQs
+# Deveoper Career FAQs
 * https://github.com/PureFuncInc/developer-career-faqs
 
 # 下個禮拜
