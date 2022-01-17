@@ -1,4 +1,4 @@
-# [YouTube](https://youtu.be/hOQOa8_srJU)
+# [YouTube](https://www.youtube.com/watch?v=uWiwvoUPfeU)
 
 # Podcast (待補)
 
