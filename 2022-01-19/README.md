@@ -11,6 +11,11 @@
 * Nic: 在地上滾的工程師
 * https://www.facebook.com/search/top?q=%E5%9C%A8%E5%9C%B0%E4%B8%8A%E6%BB%BE%E7%9A%84%E5%B7%A5%E7%A8%8B%E5%B8%AB%20nic
 
+# Nic 工商
+
+# Google Taiwan & Hong Kong Cloud Study Jam 
+* https://events.withgoogle.com/taiwan-cloud-study-jam/
+
 # 筆記
 * 大
 
