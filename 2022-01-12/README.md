@@ -1,4 +1,4 @@
-# [YouTube](https://www.youtube.com/watch?v=uWiwvoUPfeU)
+# [YouTube](https://youtu.be/uWiwvoUPfeU)
 
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
