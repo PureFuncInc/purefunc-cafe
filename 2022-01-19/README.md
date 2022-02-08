@@ -20,4 +20,4 @@
 
 # 下個禮拜
 * 劉于誠, FunPodium System Architect
-* 劉于誠, Blockchain Senior Engineer
+* 劉于誠, Binance Senior Engineer
