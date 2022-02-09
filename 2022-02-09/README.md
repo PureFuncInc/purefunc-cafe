@@ -1,4 +1,4 @@
-# [YouTube]()
+# YouTube
 
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
@@ -17,4 +17,3 @@
 
 # 下個禮拜
 * R
-
