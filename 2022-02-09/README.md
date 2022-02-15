@@ -7,6 +7,7 @@
 
 # 來賓介紹
 * Recca Chao
+* https://www.facebook.com/flamerecca711
 
 # Deveoper Career FAQs
 * https://github.com/PureFuncInc/developer-career-faqs
