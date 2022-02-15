@@ -13,7 +13,9 @@
 * https://github.com/PureFuncInc/developer-career-faqs
 
 # 參考資料
-*
+* https://chengweichen.com/
+* https://www.books.com.tw/products/0010874748
+* https://ithelp.ithome.com.tw/users/20120986/ironman/2733
 
 # 下個禮拜
 * 
