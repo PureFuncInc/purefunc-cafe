@@ -1,4 +1,4 @@
-# YouTube
+# [YouTube](https://www.youtube.com/watch?v=VP_ruW2EEU4)
 
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
@@ -18,4 +18,4 @@
 * https://ithelp.ithome.com.tw/users/20120986/ironman/2733
 
 # 下個禮拜
-* 
+* https://github.com/PureFuncInc/speaking-topics-and-ideas
