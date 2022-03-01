@@ -3,7 +3,7 @@
 
 # Introduction
 * 舉辦時間: 2022 每週三 晚上九點
-* 舉辦地點: [線上 Discord 頻道](https://purefunc.net/discord)
+* 舉辦地點: [線上 Discord 頻道](https://discord.gg/purfunc)
 * 文章介紹: [部落格](https://purefunc.net/articles/pure-func-cafe)
 * 影片介紹: [YouTube](https://www.youtube.com/watch?v=N5GzZfXg5z0)
 
@@ -14,3 +14,4 @@
 * [2022-01-26 劉于誠 X 劉于誠](./2022-01-26/README.md)
 * [2022-02-09 Recca Chao](./2022-02-09/README.md)
 * [2022-02-16 Cheng Wei Chen](./2022-02-16/README.md)
+* [2022-02-23 Vincent Huang](./2022-02-23/README.md)
