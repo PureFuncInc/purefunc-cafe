@@ -18,5 +18,5 @@
 * https://github.com/PureFuncInc/gcp-kotlin-deployments
 
 # 下個禮拜
-* Kevin Chiu, GDG Taipei Organizer
+* Kevin Chiu, GDG Taipei
 * https://www.facebook.com/kevin.chiu.9655
