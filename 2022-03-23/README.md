@@ -1,5 +1,6 @@
 # 來賓介紹
-* 無，分享與閒聊
+* 無
+* 讓我們來做一個前十次的小小回顧與總結
 
 # Deveoper Career FAQs
 * https://github.com/PureFuncInc/developer-career-faqs
