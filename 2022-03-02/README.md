@@ -1,5 +1,3 @@
-# [YouTube](https://www.youtube.com/watch?v=iOR78NTojTc)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -26,3 +24,6 @@
 # 下個禮拜
 * qrtt1, TWJUG 小精靈
 * https://www.facebook.com/qrtt1
+
+# 影片
+* https://www.youtube.com/watch?v=iOR78NTojTc
