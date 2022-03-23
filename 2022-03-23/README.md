@@ -2,6 +2,10 @@
 * 無，讓我們來做一個前十次的小小回顧與總結
 * https://github.com/PureFuncInc/purefunc-cafe
 
+# 徵才資訊
+* 發哥
+* 神山
+
 # Deveoper Career FAQs
 * https://github.com/PureFuncInc/developer-career-faqs
 
