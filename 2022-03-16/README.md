@@ -1,5 +1,3 @@
-# [YouTube](https://youtu.be/lNTub8wAsIE)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -18,8 +16,5 @@
 # GCP Kotlin Deployments
 * https://github.com/PureFuncInc/gcp-kotlin-deployments
 
-# 參考資料
-* ...
-
-# 下個禮拜
-* ...
+# 影片
+* https://youtu.be/lNTub8wAsIE
