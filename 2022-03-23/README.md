@@ -11,6 +11,7 @@
 * 新加坡商鈦坦科技，https://www.104.com.tw/company/1a2x6bin60
 * 聖學科技，https://www.104.com.tw/company/1a2x6bj764
 * KRONOS，https://www.104.com.tw/company/1a2x6bkuvm
+* 幣安
 * ...
 
 # Deveoper Career FAQs
