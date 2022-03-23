@@ -1,5 +1,3 @@
-# [YouTube](https://youtu.be/Th4dS1KFAt0)
-
 # 開場
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -21,3 +19,6 @@
 # 下個禮拜
 * 劉于誠, FunPodium System Architect
 * 劉于誠, Binance Senior Engineer
+
+# 影片
+* https://youtu.be/Th4dS1KFAt0
