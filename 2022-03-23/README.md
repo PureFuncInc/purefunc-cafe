@@ -1,6 +1,6 @@
 # 來賓介紹
-* 無
-* 讓我們來做一個前十次的小小回顧與總結
+* 無，讓我們來做一個前十次的小小回顧與總結
+* https://github.com/PureFuncInc/purefunc-cafe
 
 # Deveoper Career FAQs
 * https://github.com/PureFuncInc/developer-career-faqs
