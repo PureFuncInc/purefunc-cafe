@@ -1,5 +1,3 @@
-# [YouTube](https://youtu.be/EuZcgq_J_Wo)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -15,3 +13,6 @@
 # 下下個禮拜
 * Recca Chao, Taiwan Kotlin User Group Organizer
 * https://www.facebook.com/flamerecca711
+
+# 影片
+* https://youtu.be/EuZcgq_J_Wo
