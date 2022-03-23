@@ -1,8 +1,3 @@
-# 資訊
-* [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
-* [部落格](https://purefunc.net/articles/pure-func-cafe)
-* [YouTube](https://www.youtube.com/watch?v=N5GzZfXg5z0)
-
 # 來賓介紹
 * Recca Chao, Taiwan Kotlin User Group Organizer
 * https://www.facebook.com/flamerecca711
