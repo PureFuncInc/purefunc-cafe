@@ -1,8 +1,3 @@
-# 資訊
-* [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
-* [部落格](https://purefunc.net/articles/pure-func-cafe)
-* [YouTube](https://www.youtube.com/watch?v=N5GzZfXg5z0)
-
 # 來賓介紹
 * 林阿北, https://docs.google.com/presentation/d/1oCiX8IPvvx2oY2a8F3TZerM3yamMaJURKETHMLigsYA/edit?usp=drivesdk
 * 千石, https://1drv.ms/p/s!ApuGePa3Gpw2uhn3E56DMdHRnZll?e=Oh13sh
