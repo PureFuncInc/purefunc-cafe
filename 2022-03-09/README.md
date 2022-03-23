@@ -16,9 +16,6 @@
 # GCP Kotlin Deployments
 * https://github.com/PureFuncInc/gcp-kotlin-deployments
 
-# 參考資料
-* ss
-
 # 下個禮拜
 * 林阿北
 * 千石
