@@ -1,5 +1,3 @@
-# [YouTube](https://youtu.be/7SYP-qQPgKs)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -24,3 +22,6 @@
 # 下個禮拜
 * 林阿北
 * 千石
+
+# 影片
+* https://youtu.be/7SYP-qQPgKs
