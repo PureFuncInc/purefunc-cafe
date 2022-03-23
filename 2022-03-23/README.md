@@ -8,6 +8,7 @@
 * LINE，https://engineering.linecorp.com/zh-hant/careers/
 * 街口支付，https://www.104.com.tw/company/1a2x6bkbfz
 * 91APP，https://www.104.com.tw/company/1a2x6bio5g
+* 軒昂，https://www.104.com.tw/company/d8esip4
 * 新加坡商鈦坦科技，https://www.104.com.tw/company/1a2x6bin60
 * 聖學科技，https://www.104.com.tw/company/1a2x6bj764
 * KRONOS，https://www.104.com.tw/company/1a2x6bkuvm
