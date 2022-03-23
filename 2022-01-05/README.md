@@ -1,5 +1,3 @@
-# [YouTube](https://youtu.be/hOQOa8_srJU)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -39,3 +37,6 @@
 # 下個禮拜
 * 范聖佑: JetBrains 傳教士
 * https://www.facebook.com/shengyoufan
+
+# 影片
+* https://youtu.be/hOQOa8_srJU
