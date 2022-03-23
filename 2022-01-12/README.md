@@ -1,5 +1,3 @@
-# [YouTube](https://youtu.be/uWiwvoUPfeU)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -15,3 +13,6 @@
 # 下個禮拜
 * Nic: 在地上滾的工程師
 * https://www.facebook.com/niclin.dev
+
+# 影片
+* https://youtu.be/uWiwvoUPfeU
