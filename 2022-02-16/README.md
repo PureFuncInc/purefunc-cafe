@@ -1,5 +1,3 @@
-# [YouTube](https://www.youtube.com/watch?v=VP_ruW2EEU4)
-
 # 資訊
 * [GitHub Repo](https://github.com/PureFuncInc/purefunc-cafe)
 * [部落格](https://purefunc.net/articles/pure-func-cafe)
@@ -19,3 +17,6 @@
 
 # 下個禮拜
 * https://github.com/PureFuncInc/speaking-topics-and-ideas
+
+# 影片
+* https://www.youtube.com/watch?v=VP_ruW2EEU4
