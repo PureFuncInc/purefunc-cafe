@@ -4,8 +4,9 @@
 # Introduction
 * 舉辦時間: 2022 每週三 晚上九點
 * 舉辦地點: [線上 Discord 頻道](https://discord.gg/purfunc)
-* 文章介紹: [部落格](https://purefunc.net/articles/pure-func-cafe)
+* 文章介紹: [$_purefunc cafe 純函式咖啡](https://github.com/PureFuncInc/blog-articles/blob/main/%E7%B4%94%E5%87%BD%E5%BC%8F%E5%92%96%E5%95%A1.md)
 * 影片介紹: [YouTube](https://www.youtube.com/watch?v=N5GzZfXg5z0)
+* 活動錄影: [YouTube 播放清單](https://youtube.com/playlist?list=PLC3hT4Z5I-O4V2g1oU-pkxp6Wr72ozhgk)
 
 # Record
 * [2022-01-05 上官林傑](./2022-01-05/README.md)
