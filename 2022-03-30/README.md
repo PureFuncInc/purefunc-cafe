@@ -10,7 +10,7 @@
 * https://github.com/PureFuncInc/gcp-kotlin-deployments
 
 # 下個禮拜
-* Sharon!
+* Vincent
 
 # 影片
 * https://youtu.be/VZqYA3NLeUk
