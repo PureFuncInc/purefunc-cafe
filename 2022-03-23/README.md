@@ -25,7 +25,7 @@
 * https://github.com/PureFuncInc/gcp-kotlin-deployments
 
 # 下個禮拜
-* Sharon ? 
+* Timm
 
 # 影片
-* https://youtu.be/
+* https://youtu.be/SZTGP7nI1ws
