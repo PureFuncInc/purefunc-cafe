@@ -10,6 +10,7 @@
 # https://twjug.kktix.cc/events/twjug-lite-22
 
 # News
+* https://www.brendangregg.com/linuxperf.html
 * https://www.ptt.cc/bbs/Tech_Job/M.1652636475.A.A23.html
 * https://www.ptt.cc/bbs/Soft_Job/M.1651985795.A.38C.html
 * https://www.ptt.cc/bbs/Soft_Job/M.1652790585.A.AC0.html
