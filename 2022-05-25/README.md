@@ -7,6 +7,9 @@
 # GCP Kotlin Deployment
 * https://github.com/PureFuncInc/gcp-kotlin-deployments
 
+# COSCUP cfp
+* https://blog.coscup.org/2022/04/coscup-x-kcd-taiwan-2022-cfp-is-now.html
+
 # https://twjug.kktix.cc/events/twjug-lite-22
 
 # News
