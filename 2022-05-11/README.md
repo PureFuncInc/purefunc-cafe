@@ -19,7 +19,5 @@
 * https://www.ithome.com.tw/news/150725
 * https://blog.gslin.org/archives/2022/04/22/10674/ubuntu-22-04-lts-%E5%87%BA%E7%89%88/
 
-# 短網址系統設計
-
 # 影片
-* 
+* https://www.youtube.com/watch?v=KM24s2vq-NU
