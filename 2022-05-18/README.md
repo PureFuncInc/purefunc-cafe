@@ -19,9 +19,6 @@
 * https://www.ithome.com.tw/voice/150903
 * https://www.ithome.com.tw/news/150936
 
-# 短網址系統設計
-* 
-
 # 影片
-* 
+* https://www.youtube.com/watch?v=F4IdFNnbOnA
 
