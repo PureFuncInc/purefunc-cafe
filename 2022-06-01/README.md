@@ -12,6 +12,8 @@
 
 # https://twjug.kktix.cc/events/twjug-lite-22
 * https://medium.com/@doncic077/java-performance-profiling-guideline-5d7a39297981
+* https://www.brendangregg.com/linuxperf.html
+* https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
 
 # News
 * https://www.ithome.com.tw/news/151167
