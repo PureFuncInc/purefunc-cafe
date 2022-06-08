@@ -30,3 +30,4 @@
 * [2022-05-18 Vincent Huang](./2022-05-18/README.md)
 * [2022-05-25 Vincent Huang](./2022-05-25/README.md)
 * [2022-06-01 Vincent Huang](./2022-06-01/README.md)
+* [2022-06-08 Vincent Huang](./2022-06-08/README.md)
