@@ -18,4 +18,4 @@
 * https://www.facebook.com/groups/sre.taiwan/permalink/2309989752500249/
 
 # 影片
-* 
+* https://www.youtube.com/watch?v=oGbtMV9P88g
