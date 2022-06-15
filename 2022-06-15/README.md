@@ -18,7 +18,7 @@
 * Firstory : https://bit.ly/3b3adKo
 
 # News
-* h
+* https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/
 
 # 影片
 * 
