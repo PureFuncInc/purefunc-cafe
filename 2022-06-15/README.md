@@ -22,6 +22,7 @@
 * https://news.ycombinator.com/item?id=31708366
 * https://www.ptt.cc/bbs/Soft_Job/M.1655258511.A.948.html
 * https://untools.co/
+* https://www.ithome.com.tw/news/151405
 
 # 影片
 * 
