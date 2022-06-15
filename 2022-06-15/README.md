@@ -23,6 +23,7 @@
 * https://www.ptt.cc/bbs/Soft_Job/M.1655258511.A.948.html
 * https://untools.co/
 * https://www.ithome.com.tw/news/151405
+* https://medium.com/starbugs/totp-2fa-algorithm-in-10-mins-25acc3c35df9
 
 # 影片
 * 
