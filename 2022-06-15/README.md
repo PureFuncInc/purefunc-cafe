@@ -19,6 +19,8 @@
 
 # News
 * https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/
+* https://news.ycombinator.com/item?id=31708366
+* https://www.ptt.cc/bbs/Soft_Job/M.1655258511.A.948.html
 
 # 影片
 * 
