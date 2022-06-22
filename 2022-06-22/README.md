@@ -24,6 +24,8 @@
 
 # 徵才
 * https://github.com/b2etw/jobs/issues
+* https://ithelp.ithome.com.tw/users/20107429/ironman/3897
+* https://doc.akka.io/docs/akka/current/typed/actors.html
 
 # 影片
 * 
