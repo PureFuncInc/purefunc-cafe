@@ -20,6 +20,7 @@
 * https://www.ithome.com.tw/news/151548
 * https://www.ithome.com.tw/news/151522
 * https://dragonflydb.io/
+* http://www.ruanyifeng.com/blog/2022/06/weekly-issue-210.html
 
 # 徵才
 * https://github.com/b2etw/jobs/issues
