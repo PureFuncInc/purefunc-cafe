@@ -18,6 +18,7 @@
 # News
 * https://karabiner-elements.pqrs.org/
 * https://www.ithome.com.tw/news/151548
+* https://www.ithome.com.tw/news/151522
 
 # 徵才
 * https://github.com/b2etw/jobs/issues
