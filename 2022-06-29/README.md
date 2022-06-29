@@ -33,6 +33,11 @@
   * https://www.bnext.com.tw/article/70243/solana-saga-ifanr
   * https://ccc.technews.tw/2018/12/12/what-is-the-difference-between-htc-exodus-1/
 
+# Note
+* https://www.techbang.com/posts/96389-linux-linus-torvalds
+* https://github.com/EvanLi/Github-Ranking
+* https://github.com/nvbn/thefuck
+* https://www.kali.org/ 
 
 # 影片
 * 
