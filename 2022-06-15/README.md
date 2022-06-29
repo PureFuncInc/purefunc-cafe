@@ -26,4 +26,4 @@
 * https://medium.com/starbugs/totp-2fa-algorithm-in-10-mins-25acc3c35df9
 
 # 影片
-* 
+* https://www.youtube.com/watch?v=K32McgU0RTk
