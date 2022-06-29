@@ -28,7 +28,10 @@
 * https://blog.gslin.org/archives/2022/06/29/10767/postgresql-%E4%B8%8A%E5%B0%8D%E6%87%89-pt-online-schema-change-%E7%9A%84%E5%B7%A5%E5%85%B7-pg-osc/
 * https://blog.gslin.org/archives/2022/06/25/10758/aws-%E5%9C%A8%E5%90%8C%E4%B8%80%E5%8D%80%E4%B8%8D%E5%90%8C-az-%E9%A0%BB%E5%AF%AC%E8%B2%BB%E7%94%A8%E7%9A%84%E7%89%B9%E5%88%A5%E5%9C%B0%E6%96%B9/
 * https://news.ycombinator.com/item?id=31813308
-* https://tw.stock.yahoo.com/news/%E9%80%9A%E4%BF%A1%E7%B6%B2%E8%B7%AF-%E5%85%83%E5%AE%87%E5%AE%99%E6%89%8B%E6%A9%9F%E5%88%A9%E5%A4%9A%E5%87%BA%E7%9B%A1-%E5%AE%8F%E9%81%94%E9%9B%BB%E8%B7%8C%E5%81%9C-041824926.html
+* blockchain mobile
+  * https://tw.stock.yahoo.com/news/%E9%80%9A%E4%BF%A1%E7%B6%B2%E8%B7%AF-%E5%85%83%E5%AE%87%E5%AE%99%E6%89%8B%E6%A9%9F%E5%88%A9%E5%A4%9A%E5%87%BA%E7%9B%A1-%E5%AE%8F%E9%81%94%E9%9B%BB%E8%B7%8C%E5%81%9C-041824926.html
+  * https://www.bnext.com.tw/article/70243/solana-saga-ifanr
+  * https://ccc.technews.tw/2018/12/12/what-is-the-difference-between-htc-exodus-1/
 
 
 # 影片
