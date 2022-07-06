@@ -40,4 +40,4 @@
 * https://www.kali.org/ 
 
 # 影片
-* 
+* https://www.youtube.com/watch?v=GB2A0L5Jb9c
