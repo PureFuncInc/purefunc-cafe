@@ -19,6 +19,10 @@
 # Kotlin Collection 全方位解析攻略 : 精通原理及實戰，寫出流暢好維護的程式（iT邦幫忙鐵人賽系列書）
 * https://www.tenlong.com.tw/products/9786263331136?fbclid=IwAR3U0anxMmw0pA5APFaL1KjkKg7N8NfsgvcxpRJ3hlEPYRogN3GZIGvm63g
 
+# Google IO Extended
+* https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-io-extended22-party-2/
+* https://gdg.community.dev/events/details/google-gdg-taichung-presents-google-io-extended22/
+
 # 生產力推坑
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1052312978622256/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1053978165122404/
@@ -27,7 +31,12 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1062767030910184/
 
 # News
-
+* https://cloud.tencent.com/developer/article/1806191
+* https://twitter.com/elonmusk/status/1546344529460174849
+* https://blog.gslin.org/archives/2022/07/11/10792/hacker-news-%E5%89%8D%E5%B9%BE%E5%A4%A9%E7%82%B8%E5%BE%88%E4%B9%85%E7%9A%84-root-cause/
+* https://www.starlink.com/maritime
+* https://www.blocktempo.com/a-fake-job-offer-took-down-axie-infinity/
+* https://www.google.com/intl/en/ipv6/statistics.html#tab=ipv6-adoption
 
 # 影片
 * 
