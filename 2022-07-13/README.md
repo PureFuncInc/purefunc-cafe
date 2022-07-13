@@ -35,6 +35,7 @@
 * https://cloud.tencent.com/developer/article/1806191
 * https://twitter.com/elonmusk/status/1546344529460174849
 * https://blog.gslin.org/archives/2022/07/11/10792/hacker-news-%E5%89%8D%E5%B9%BE%E5%A4%A9%E7%82%B8%E5%BE%88%E4%B9%85%E7%9A%84-root-cause/
+* https://uptime.is/
 * https://www.starlink.com/maritime
 * https://www.blocktempo.com/a-fake-job-offer-took-down-axie-infinity/
 * https://www.google.com/intl/en/ipv6/statistics.html#tab=ipv6-adoption
