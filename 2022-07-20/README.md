@@ -33,7 +33,9 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 
 # News
-* 
+* https://benchmark.clickhouse.com/
+* https://blog.miniasp.com/post/2022/07/19/Maximum-length-of-URL-in-browsers-and-servers
+* https://medium.com/starbugs/consistency-between-cache-and-database-part-1-f64f4a76720
 
 # 影片
 * 
