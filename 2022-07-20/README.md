@@ -30,9 +30,10 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1059300777923476/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1060889767764577/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1062767030910184/
+* https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 
 # News
-* http
+* 
 
 # 影片
 * 
