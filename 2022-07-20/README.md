@@ -17,7 +17,7 @@
 * https://www.facebook.com/mopcon
 
 # Kotlin Collection 全方位解析攻略 : 精通原理及實戰，寫出流暢好維護的程式（iT邦幫忙鐵人賽系列書）
-* https://www.tenlong.com.tw/products/9786263331136?fbclid=IwAR3U0anxMmw0pA5APFaL1KjkKg7N8NfsgvcxpRJ3hlEPYRogN3GZIGvm63g
+* https://www.tenlong.com.tw/products/9786263331136
 
 # Google IO Extended
 * https://gdg.community.dev/events/details/google-gdg-taipei-presents-google-io-extended22-party-2/
