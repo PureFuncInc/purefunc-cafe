@@ -30,4 +30,4 @@
 * https://ss64.com/bash/syntax-pronounce.html
 
 # 影片
-* 
+* https://youtu.be/_6AH12Bmgkk
