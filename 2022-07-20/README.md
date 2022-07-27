@@ -38,4 +38,4 @@
 * https://medium.com/starbugs/consistency-between-cache-and-database-part-1-f64f4a76720
 
 # 影片
-* 
+* https://youtu.be/LECrkVc1YrA
