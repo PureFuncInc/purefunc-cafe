@@ -37,3 +37,4 @@
 * [🎞 影片](https://www.youtube.com/watch?v=_6AH12Bmgkk) / [2022-07-06](./2022-07-06/README.md)
 * [🎞 影片](https://www.youtube.com/watch?v=SDE14DkLMAg) / [2022-07-13](./2022-07-13/README.md)
 * [🎞 影片](https://www.youtube.com/watch?v=LECrkVc1YrA) / [2022-07-20](./2022-07-20/README.md)
+* [🎞 影片]() / [2022-07-27](./2022-07-27/README.md)
