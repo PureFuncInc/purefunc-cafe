@@ -29,6 +29,7 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 
 # News
+* https://buzzorange.com/techorange/2020/05/15/coding-language-happiness/
 * https://www.ithome.com.tw/news/152139
 * https://github.com/eryajf/HowToStartOpenSource
 * https://www.chiphell.com/article-25725-1.html
