@@ -31,6 +31,8 @@
 * https://cloudsummit.ithome.com.tw/2022/slides
 * https://coscup.org/2022/zh-TW/session
 * https://www.ithome.com.tw/news/152238
+* http://www.ruanyifeng.com/blog/2022/08/dns-query.html
+* https://technews.tw/2022/08/03/solana-wallet-underattck-walltet-hack/
 
 # 影片
 * 
