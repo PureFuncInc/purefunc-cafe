@@ -30,6 +30,7 @@
 * https://www.appledaily.com.tw/life/20220803/A6175A1FC58A5A33DF55454E46
 * https://cloudsummit.ithome.com.tw/2022/slides
 * https://coscup.org/2022/zh-TW/session
+* https://www.ithome.com.tw/news/152238
 
 # 影片
 * 
