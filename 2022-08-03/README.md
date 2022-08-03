@@ -26,7 +26,10 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 
 # News
-* 
+* https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E8%A6%81%E8%A3%B4%E6%B4%9B%E8%A5%BF%E6%BB%BE%E5%87%BA%E5%8F%B0%E7%81%A3-7-11-%E5%BB%A3%E5%91%8A%E8%9E%A2%E5%B9%95-015433536.html
+* https://www.appledaily.com.tw/life/20220803/A6175A1FC58A5A33DF55454E46
+* https://cloudsummit.ithome.com.tw/2022/slides
+* https://coscup.org/2022/zh-TW/session
 
 # 影片
 * 
