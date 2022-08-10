@@ -19,9 +19,12 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1062767030910184/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 
-# [JCConf 2022](https://jcconf.tw/2022)
-# [MOPCON 2022]()
-# [HITCON]()
+# [Cloud Summit]()
+# [COSCUP]()
+# [HITCON 2022](https://hitcon.org/2022/) 08/19-20
+# [PyCon 2022](https://tw.pycon.org/2022/zh-hant) 09/03-04
+# [JCConf 2022](https://jcconf.tw/2022) 10/07
+# [MOPCON 2022](https://mopcon.org/2021/) 10/15 -16
 
 # News
 
