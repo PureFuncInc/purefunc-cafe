@@ -34,4 +34,4 @@
 * https://medium.com/@ssuchieh/%E6%B7%BA%E8%AB%87-java-%E7%9B%B8%E9%97%9C%E8%AA%9E%E8%A8%80%E7%9A%84-application-performance-improvement-%E7%B3%BB%E5%88%97-2-7d5b23298746
 
 # 影片
-* 
+* https://youtu.be/oV7PaU7Csjk 
