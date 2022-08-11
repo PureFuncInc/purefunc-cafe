@@ -13,6 +13,7 @@ $ deactivate
 (venv) $ pip3 install -r requirements.txt
  or
 (venv) $ pip3 install discord.py
+(venv) $ pip3 install urllib3
 ```
 * after installed new library, you need to update requirements.txt
 ```
