@@ -19,8 +19,8 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1062767030910184/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 
-# [Cloud Summit](https://cloudsummit.ithome.com.tw/)
-# [COSCUP](https://coscup.org/2022/zh-TW/)
+# [Cloud Summit](https://cloudsummit.ithome.com.tw/) 07/26
+# [COSCUP](https://coscup.org/2022/zh-TW/) 07/30-31
 # [HITCON 2022](https://hitcon.org/2022/) 08/19-20
 # [PyCon 2022](https://tw.pycon.org/2022/zh-hant) 09/03-04
 # [JCConf 2022](https://jcconf.tw/2022) 10/07
