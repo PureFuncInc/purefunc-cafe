@@ -28,7 +28,7 @@
 # [Kubernetes Summit 2022](https://k8s.ithome.com.tw/) 10/18-19
 
 # News
-* 
+* https://www.ithome.com.tw/news/152466
 
 # 影片
 * 
