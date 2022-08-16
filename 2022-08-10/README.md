@@ -43,7 +43,7 @@
 * 支援度 (Client, Server, Infra)
 * 自行實作心跳跟斷線重連
 * auth 支援度
-* 傳輸量
+* 思考 HTTP/2 帶來的影響
 
 # SSE
 * 單向
@@ -52,7 +52,7 @@
 * Base on HTTP
 * 內建心跳和斷線重連
 * auth 支援度
-* 傳輸量
+* 思考 HTTP/2 帶來的影響
 
 # 影片
 * https://youtu.be/yVq5gXbeiKw
