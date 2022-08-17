@@ -38,8 +38,12 @@
 
 # News
 * https://www.ithome.com.tw/news/152466
+* https://www.ithome.com.tw/news/152520
+* https://www.ithome.com.tw/news/152523
+* https://www.ithome.com.tw/news/152529
 * https://rickhw.github.io/2022/08/13/SQA/Path-to-Software-Testing/
 * https://lbrito1.github.io/blog/2020/02/repurposing-android.html
+* https://blog.gslin.org/archives/2022/08/16/10844/cloudfront-%E6%94%AF%E6%8F%B4-http-3/
 * https://knots3d.com/knots/en_us/ALL
 
 # 影片
