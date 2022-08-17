@@ -10,6 +10,12 @@
 # Speaking Topics and ideas (Close, 水球他們做得更好
 * https://github.com/PureFuncInc/speaking-topics-and-ideas 
 
+# Not Just Programming
+* https://github.com/PureFuncInc/not-just-programming
+
+# calendar
+* https://github.com/Taiwan-Developer-Community-League/calendar
+
 # 生產力推坑
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1052312978622256/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1053978165122404/
@@ -29,6 +35,7 @@
 
 # News
 * https://www.ithome.com.tw/news/152466
+* https://rickhw.github.io/2022/08/13/SQA/Path-to-Software-Testing/
 
 # 影片
 * 
