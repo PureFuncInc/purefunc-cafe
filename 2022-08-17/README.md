@@ -16,6 +16,9 @@
 # calendar
 * https://github.com/Taiwan-Developer-Community-League/calendar
 
+# GCP Cloud Study Jam
+* https://events.withgoogle.com/taiwan-hong-kong-cloud-study-jam/
+
 # 生產力推坑
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1052312978622256/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1053978165122404/
@@ -36,6 +39,8 @@
 # News
 * https://www.ithome.com.tw/news/152466
 * https://rickhw.github.io/2022/08/13/SQA/Path-to-Software-Testing/
+* https://lbrito1.github.io/blog/2020/02/repurposing-android.html
+* https://knots3d.com/knots/en_us/ALL
 
 # 影片
 * 
