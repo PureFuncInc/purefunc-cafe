@@ -40,5 +40,5 @@
 * [🎞 影片](https://youtu.be/P8xFlxlwD04) / [2022-07-27](./2022-07-27/README.md)
 * [🎞 影片](https://youtu.be/oV7PaU7Csjk) / [2022-08-03](./2022-08-03/README.md)
 * [🎞 影片](https://youtu.be/yVq5gXbeiKw) / [2022-08-10](./2022-08-10/README.md)
-* [🎞 影片]() / [2022-08-17](./2022-08-17/README.md)
-* [🎞 影片]() / [2022-08-24](./2022-08-24/README.md)
+* [🎞 影片](https://youtu.be/ugQiluBLr7E) / [2022-08-17](./2022-08-17/README.md)
+* [🎞 影片](https://youtu.be/UMJAi94XG7I) / [2022-08-24](./2022-08-24/README.md)
