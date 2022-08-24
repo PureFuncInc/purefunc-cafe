@@ -42,7 +42,7 @@
 * 志工 https://docs.google.com/forms/d/e/1FAIpQLSeJOJ4g08YcoILKrAFiTgmAhO302MvsdqqDxu7zeYKQWXS1eg/viewform?usp=send_form
 
 # Devops Taiwan
-* https://devops.kktix.cc/events/meetup-44-k8s-networking?fbclid=IwAR24dgwaP8CjXT9if6UnQQfUW_0zMRj13oLKByqY-nQyE8eMalRw7YlHScU
+* https://devops.kktix.cc/events/meetup-44-k8s-networking
 
 # News
 * https://www.ithome.com.tw/news/152466
