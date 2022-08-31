@@ -36,16 +36,23 @@
 ## .NET Conf
 ## DevFast
 
+# iThome 鐵人賽
+* https://ithelp.ithome.com.tw/2022ironman/event
+
 # JCConf
 * 售票 https://twjug.kktix.cc/events/jcconf-2022
 * 志工 https://docs.google.com/forms/d/e/1FAIpQLSeJOJ4g08YcoILKrAFiTgmAhO302MvsdqqDxu7zeYKQWXS1eg/viewform?usp=send_form
 
 # News
-* https://www.inoreader.com/feed/http%3A%2F%2Fwww.ithome.com.tw%2Frss.xml
+* https://www.ithome.com.tw/news/152729
+* https://www.ithome.com.tw/news/152723
+* https://www.ithome.com.tw/news/152690
+* https://www.ithome.com.tw/news/152684
 * https://www.jrebel.com/blog
 * https://rpdc.xiaohongshu.com
 * https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b
 * 資安
+  * https://www.ithome.com.tw/news/152685
   * https://www.ithome.com.tw/news/152799
   * https://www.ithome.com.tw/news/152810
   * https://www.ithome.com.tw/news/152781
