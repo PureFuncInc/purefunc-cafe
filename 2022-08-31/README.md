@@ -41,6 +41,7 @@
 * 志工 https://docs.google.com/forms/d/e/1FAIpQLSeJOJ4g08YcoILKrAFiTgmAhO302MvsdqqDxu7zeYKQWXS1eg/viewform?usp=send_form
 
 # News
+* https://www.inoreader.com/feed/http%3A%2F%2Fwww.ithome.com.tw%2Frss.xml
 * https://www.jrebel.com/blog
 * https://rpdc.xiaohongshu.com
 * https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b
