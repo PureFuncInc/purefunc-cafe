@@ -48,10 +48,12 @@
 * https://www.ithome.com.tw/news/152723
 * https://www.ithome.com.tw/news/152690
 * https://www.ithome.com.tw/news/152684
+* https://www.ithome.com.tw/news/152543
 * https://www.jrebel.com/blog
 * https://rpdc.xiaohongshu.com
 * https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b
 * 資安
+  * https://www.ithome.com.tw/news/152456 
   * https://www.ithome.com.tw/news/152685
   * https://www.ithome.com.tw/news/152799
   * https://www.ithome.com.tw/news/152810
