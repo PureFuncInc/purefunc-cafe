@@ -32,9 +32,9 @@
 # [MOPCON 2022](https://mopcon.org/2021/) 10/15 -16
 # [Kubernetes Summit 2022](https://k8s.ithome.com.tw/) 10/18-19
 # [Laravel Conf 2022](https://laravelconf.tw/) 12/02 - 03
-# JSDC
-# .NET Conf
-# DevFast
+## JSDC
+## .NET Conf
+## DevFast
 
 # JCConf
 * 售票 https://twjug.kktix.cc/events/jcconf-2022
@@ -44,6 +44,12 @@
 * https://www.jrebel.com/blog
 * https://rpdc.xiaohongshu.com
 * https://blog.devgenius.io/top-10-architecture-characteristics-non-functional-requirements-with-cheatsheat-7ad14bbb0a9b
+* 資安
+  * https://www.ithome.com.tw/news/152799
+  * https://www.ithome.com.tw/news/152810
+  * https://www.ithome.com.tw/news/152781
+  * https://www.ithome.com.tw/news/152773
+  * https://www.ithome.com.tw/news/152760
 
 # 影片
 * 
