@@ -36,6 +36,8 @@
 ## .NET Conf
 ## DevFast
 
+# [台灣 Java 技術愛好者俱樂部](https://www.facebook.com/groups/2614873561976554)
+
 # iThome 鐵人賽
 * https://ithelp.ithome.com.tw/2022ironman/event
 
