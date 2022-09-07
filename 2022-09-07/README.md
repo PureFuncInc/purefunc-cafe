@@ -43,7 +43,8 @@
 * https://ithelp.ithome.com.tw/users/20129150/ironman/5252
 * https://ithelp.ithome.com.tw/users/20120550/ironman/5099
 * https://ithelp.ithome.com.tw/users/20151917/ironman/5437
-* https://ithelp.ithome.com.tw/users/20120094/ironman/2296?page=3
+* https://ithelp.ithome.com.tw/users/20120094/ironman/2296
+* https://ithelp.ithome.com.tw/users/20140547/ironman/4622
 
 # JCConf
 * 售票 https://twjug.kktix.cc/events/jcconf-2022
