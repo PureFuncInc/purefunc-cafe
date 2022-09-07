@@ -38,6 +38,7 @@
 
 # iThome 鐵人賽
 * https://ithelp.ithome.com.tw/2022ironman/event
+* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022/index.html
 
 # JCConf
 * 售票 https://twjug.kktix.cc/events/jcconf-2022
