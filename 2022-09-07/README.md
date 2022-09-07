@@ -53,6 +53,7 @@
 # News
 * https://blog.gslin.org/archives/2022/09/01/10868/cloudfront-%E5%9C%A8%E8%B6%8A%E5%8D%97%E9%96%8B%E9%BB%9E/
 * https://blog.gslin.org/archives/2022/09/01/10867/aws-%E5%9C%A8%E9%98%BF%E8%81%AF%E9%96%8B%E5%8D%80%E5%9F%9F%E4%BA%86-me-central-1/
+* https://hackmd.io/TaPCdvk-TuqmUIkoWYAMtA
 
 # 影片
 * 
