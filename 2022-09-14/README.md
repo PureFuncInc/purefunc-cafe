@@ -39,6 +39,7 @@
 # iThome 鐵人賽
 * https://ithelp.ithome.com.tw/2022ironman/event
 * https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022/index.html
+* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
 * https://ithelp.ithome.com.tw/users/20120550/ironman/5098
 * https://ithelp.ithome.com.tw/users/20129150/ironman/5252
 * https://ithelp.ithome.com.tw/users/20120550/ironman/5099
@@ -46,14 +47,9 @@
 * https://ithelp.ithome.com.tw/users/20120094/ironman/2296
 * https://ithelp.ithome.com.tw/users/20140547/ironman/4622
 
-# JCConf
-* 售票 https://twjug.kktix.cc/events/jcconf-2022
-* 志工 https://docs.google.com/forms/d/e/1FAIpQLSeJOJ4g08YcoILKrAFiTgmAhO302MvsdqqDxu7zeYKQWXS1eg/viewform?usp=send_form
 
 # News
-* https://blog.gslin.org/archives/2022/09/01/10868/cloudfront-%E5%9C%A8%E8%B6%8A%E5%8D%97%E9%96%8B%E9%BB%9E/
-* https://blog.gslin.org/archives/2022/09/01/10867/aws-%E5%9C%A8%E9%98%BF%E8%81%AF%E9%96%8B%E5%8D%80%E5%9F%9F%E4%BA%86-me-central-1/
-* https://hackmd.io/TaPCdvk-TuqmUIkoWYAMtA
+* 
 
 # 影片
 * 
