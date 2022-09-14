@@ -40,13 +40,6 @@
 * https://ithelp.ithome.com.tw/2022ironman/event
 * https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022/index.html
 * https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
-* https://ithelp.ithome.com.tw/users/20120550/ironman/5098
-* https://ithelp.ithome.com.tw/users/20129150/ironman/5252
-* https://ithelp.ithome.com.tw/users/20120550/ironman/5099
-* https://ithelp.ithome.com.tw/users/20151917/ironman/5437
-* https://ithelp.ithome.com.tw/users/20120094/ironman/2296
-* https://ithelp.ithome.com.tw/users/20140547/ironman/4622
-
 
 # News
 * 
