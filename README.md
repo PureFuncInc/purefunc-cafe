@@ -1,4 +1,4 @@
-# purefunc-cafe
+# $_purefunc Cafe
 ![](https://raw.githubusercontent.com/PureFuncInc/purefunc-cafe/main/images/logo.png)
 
 # Introduction
