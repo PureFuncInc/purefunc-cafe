@@ -19,6 +19,7 @@
 
 # [$_purefunc Technique Weekly News](https://github.com/PureFuncInc/purefunc-technique-weekly-news)
 * https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/1?closed=1
+* https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/2?closed=1
 
 # 影片
 * 
