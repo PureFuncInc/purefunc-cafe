@@ -17,19 +17,6 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1093343757852511/
 
-# [Cloud Summit](https://cloudsummit.ithome.com.tw/) 07/26
-# [COSCUP](https://coscup.org/2022/zh-TW/) 07/30-31
-# [HITCON 2022](https://hitcon.org/2022/) 08/19-20
-# [PyCon 2022](https://tw.pycon.org/2022/zh-hant) 09/03-04
-# [DevOpsDays Taiepi 2022](https://devopsdays.tw/) 09/15-16
-# [JCConf 2022](https://jcconf.tw/2022) 10/07
-# [MOPCON 2022](https://mopcon.org/2021/) 10/15 -16
-# [Kubernetes Summit 2022](https://k8s.ithome.com.tw/) 10/18-19
-# [Laravel Conf 2022](https://laravelconf.tw/) 12/02 - 03
-## JSDC
-## .NET Conf
-## DevFast
-
 # [$_purefunc Technique Weekly News](https://github.com/PureFuncInc/purefunc-technique-weekly-news)
 * https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/1?closed=1
 
