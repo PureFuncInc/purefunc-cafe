@@ -1,16 +1,10 @@
 # Deveoper Career FAQs
 * https://github.com/PureFuncInc/developer-career-faqs
 
-# GCP Kotlin Deployment
-* https://github.com/PureFuncInc/gcp-kotlin-deployments
-
-# Kotlin Extensions
-* https://github.com/PureFuncInc/kotlin-extensions
-
 # Not Just Programming
 * https://github.com/PureFuncInc/not-just-programming
 
-# calendar
+# calendar (close 跟純函式週報結合
 * https://github.com/Taiwan-Developer-Community-League/calendar
 
 # 生產力推坑
@@ -36,8 +30,8 @@
 ## .NET Conf
 ## DevFast
 
-# Technique Weekly News
-* https://github.com/PureFuncInc/purefunc-technique-weekly-news
+# [$_purefunc Technique Weekly News](https://github.com/PureFuncInc/purefunc-technique-weekly-news)
+* https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/1?closed=1
 
 # 影片
 * 
