@@ -19,5 +19,11 @@
 * [0002 2022-09-28](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/2?closed=1)
 * [0003 2022-10-05](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/3?closed=1)
 
+# News
+* https://www.bnext.com.tw/article/72004/elon-musk-buy-twitter
+* https://jcconf.tw/2022/
+* https://docs.google.com/presentation/d/1DtjFhlGbs12HvlO4q5cma7VZcuaJkcBOemMeL5JWetY
+* https://mopcon.org/2022/
+
 # 影片
 * 
