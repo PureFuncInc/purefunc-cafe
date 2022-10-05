@@ -22,4 +22,4 @@
 * https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/2?closed=1
 
 # 影片
-* 
+* https://youtu.be/_mxoukKWnFY
