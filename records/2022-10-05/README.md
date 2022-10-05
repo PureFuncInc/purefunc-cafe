@@ -15,9 +15,9 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1093343757852511/
 
 # [$_purefunc Technique Weekly News](https://github.com/PureFuncInc/purefunc-technique-weekly-news)
-* https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/1?closed=1
-* https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/2?closed=1
-* https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/3?closed=1
+* [0001 2022-09-21](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/1?closed=1)
+* [0002 2022-09-28](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/2?closed=1)
+* [0003 2022-10-05](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/3?closed=1)
 
 # 影片
 * 
