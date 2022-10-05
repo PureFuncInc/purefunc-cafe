@@ -24,6 +24,7 @@
 * https://jcconf.tw/2022/
 * https://docs.google.com/presentation/d/1DtjFhlGbs12HvlO4q5cma7VZcuaJkcBOemMeL5JWetY
 * https://mopcon.org/2022/
+* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
 
 # 影片
 * 
