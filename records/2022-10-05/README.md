@@ -27,4 +27,4 @@
 * https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
 
 # 影片
-* 
+* https://youtu.be/AuO7V_ISWKY
