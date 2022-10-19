@@ -35,5 +35,8 @@
   * https://www.tenlong.com.tw/products/9786263332645
   * https://www.tenlong.com.tw/products/9786263332577
 
+# Game-as-a-Service
+* https://waterball.notion.site/Game-as-a-Service-e636a20876e6484ba0b758fdeaee06f0
+
 # 影片
 * 
