@@ -26,9 +26,13 @@
 * https://mopcon.org/2022/
 * https://docs.google.com/presentation/d/1H3MbEs_xdDcRaBtJ3aqCC121nYU_5ZqP6JdNsRQftfA
 * https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
+* https://k8s.ithome.com.tw/
 * https://www.ithome.com.tw/news/153565
 * https://www.ithome.com.tw/news/153682
 * https://www.ithome.com.tw/news/153702
+* iThome 書
+  * https://www.tenlong.com.tw/products/9786263332645
+  * https://www.tenlong.com.tw/products/9786263332577
 
 # 影片
 * 
