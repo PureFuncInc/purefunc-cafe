@@ -26,8 +26,9 @@
 * https://docs.google.com/presentation/d/1DtjFhlGbs12HvlO4q5cma7VZcuaJkcBOemMeL5JWetY
 * https://mopcon.org/2022/
 * https://docs.google.com/presentation/d/1H3MbEs_xdDcRaBtJ3aqCC121nYU_5ZqP6JdNsRQftfA
-* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
 * https://k8s.ithome.com.tw/
+* https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
+* https://gdg.community.dev/events/details/google-gdg-taichung-presents-devfest-taichung-2022/
 * https://www.ithome.com.tw/news/153565
 * https://www.ithome.com.tw/news/153682
 * https://www.ithome.com.tw/news/153702
