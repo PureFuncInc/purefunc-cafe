@@ -21,7 +21,7 @@
 * [0004 2022-10-12](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/4?closed=1)
 * [0005 2022-10-19](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/5?closed=1)
 * [0006 2022-10-26](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/6?closed=1)
-* [0006 2022-11-02](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/7?closed=1)
+* [0007 2022-11-02](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/7?closed=1)
 
 # News
 * https://ithome-ironman-watcher.s3.ap-northeast-1.amazonaws.com/2022v2/index.html
