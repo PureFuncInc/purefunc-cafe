@@ -51,4 +51,4 @@
 * [🎞 影片](https://youtu.be/5qwUiu-93_k) / [2022-10-12](records/2022-10-12/README.md)
 * [🎞 影片](https://youtu.be/hPp8a30Ihp8) / [2022-10-19](records/2022-10-19/README.md)
 * [🎞 影片](https://youtu.be/u-o49KLWnN8) / [2022-10-26](records/2022-10-26/README.md)
-* [🎞 影片]() / [2022-11-02](records/2022-11-02/README.md)
+* [🎞 影片](https://youtu.be/H-Fq_UmndD4) / [2022-11-02](records/2022-11-02/README.md)
