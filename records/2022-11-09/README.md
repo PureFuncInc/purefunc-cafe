@@ -32,5 +32,13 @@
 # Game-as-a-Service
 * https://waterball.notion.site/Game-as-a-Service-e636a20876e6484ba0b758fdeaee06f0
 
+# JCConf 影片
+* https://www.youtube.com/channel/UCGPOVYPBsMlg4Cx4jmkpuTw
+
+# Kotlin 是世界上最好的語言
+* https://www.facebook.com/events/542267307725178
+
+# 純函式社群尾牙
+
 # 影片
 * 
