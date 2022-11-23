@@ -14,7 +14,7 @@
 * [🎞 影片]() / [049 2022-12-14](records/2022-12-14/README.md)
 * [🎞 影片]() / [048 2022-12-07](records/2022-12-07/README.md)
 * [🎞 影片]() / [047 2022-11-30](records/2022-11-30/README.md)
-* [🎞 影片]() / [046 2022-11-23](records/2022-11-23/README.md)
+* [🎞 影片](https://youtu.be/_1nxxb6sBOU) / [046 2022-11-23](records/2022-11-23/README.md)
 * [🎞 影片](https://youtu.be/YA4nJ6qj8vw) / [045 2022-11-16](records/2022-11-16/README.md)
 * [🎞 影片](https://youtu.be/jFyeo5irJlI) / [044 2022-11-09](records/2022-11-09/README.md)
 * [🎞 影片](https://youtu.be/H-Fq_UmndD4) / [043 2022-11-02](records/2022-11-02/README.md)
