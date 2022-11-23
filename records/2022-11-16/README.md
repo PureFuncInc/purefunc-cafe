@@ -43,4 +43,4 @@
 * 鍵盤相關
 
 # 影片
-* https://youtu.be/jFyeo5irJlI
+* https://youtu.be/YA4nJ6qj8vw
