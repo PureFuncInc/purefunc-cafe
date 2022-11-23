@@ -28,6 +28,9 @@
 
 # News
 * https://github.com/PureFuncInc/emoji-jvm-string
+* https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
+* https://dotnetconf.study4.tw/
+* https://laravelconf.tw/
 
 # 純函式社群尾牙
 * 簽名書 * 4
