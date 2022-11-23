@@ -27,7 +27,7 @@
 * [0010 2022-11-23](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/10?closed=1)
 
 # News
-*
+* https://github.com/PureFuncInc/emoji-jvm-string
 
 # 純函式社群尾牙
 * 簽名書 * 4
