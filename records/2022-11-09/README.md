@@ -41,4 +41,4 @@
 # 純函式社群尾牙
 
 # 影片
-* 
+* https://youtu.be/jFyeo5irJlI
