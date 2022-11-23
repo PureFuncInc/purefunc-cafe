@@ -24,7 +24,7 @@
 * [0007 2022-11-02](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/7?closed=1)
 * [0008 2022-11-09](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/8?closed=1)
 * [0009 2022-11-16](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/9?closed=1)
-* [0009 2022-11-23](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/10?closed=1)
+* [0010 2022-11-23](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/10?closed=1)
 
 # News
 *
