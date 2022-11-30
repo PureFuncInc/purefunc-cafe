@@ -25,6 +25,7 @@
 * [0008 2022-11-09](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/8?closed=1)
 * [0009 2022-11-16](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/9?closed=1)
 * [0010 2022-11-23](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/10?closed=1)
+* [0011 2022-11-30](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/11?closed=1)
 
 # News
 * https://github.com/PureFuncInc/emoji-jvm-string
@@ -32,16 +33,5 @@
 * https://dotnetconf.study4.tw/
 * https://laravelconf.tw/
 
-# 純函式社群尾牙
-* 簽名書 * 4
-* 純函式咖啡 T Shirts
-* Stack Overflow Keyboard
-* MOPCON 撲克牌
-* Google 紀念品
-* JetBrains 紀念品
-* 鍵盤相關
-  * 個性鍵帽
-  * 桌墊 
-
 # 影片
-* https://youtu.be/_1nxxb6sBOU
+* 
