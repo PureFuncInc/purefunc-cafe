@@ -28,7 +28,6 @@
 * [0011 2022-11-30](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/11?closed=1)
 
 # News
-* https://github.com/PureFuncInc/emoji-jvm-string
 * https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
 * https://dotnetconf.study4.tw/
 * https://laravelconf.tw/
