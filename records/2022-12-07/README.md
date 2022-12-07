@@ -33,6 +33,7 @@
 * https://forms.gle/qvvpsMnaXns23M6k8
 
 # News
+* 和艦長一起30天玩轉GitLab 二版
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1162967947556758/
 * ChatGPT
 
