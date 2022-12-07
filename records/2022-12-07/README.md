@@ -13,6 +13,7 @@
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1062767030910184/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1067500410436846/
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1093343757852511/
+* https://www.facebook.com/groups/taiwanbackendgroup/permalink/1162967947556758/
 
 # [$_purefunc Technique Weekly News](https://github.com/PureFuncInc/purefunc-technique-weekly-news)
 * [0001 2022-09-21](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/1?closed=1)
@@ -26,11 +27,13 @@
 * [0009 2022-11-16](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/9?closed=1)
 * [0010 2022-11-23](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/10?closed=1)
 * [0011 2022-11-30](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/11?closed=1)
+* [0012 2022-12-07](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/12?closed=1)
+
+# 純函式社群尾牙
+* https://forms.gle/qvvpsMnaXns23M6k8
 
 # News
-* https://gdg.community.dev/events/details/google-gdg-taipei-presents-devfest-2022-taipei/
-* https://dotnetconf.study4.tw/
-* https://laravelconf.tw/
+* https://www.facebook.com/groups/taiwanbackendgroup/permalink/1162967947556758/
 
 # 影片
 * 
