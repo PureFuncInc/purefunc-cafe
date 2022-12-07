@@ -34,6 +34,7 @@
 
 # News
 * https://www.facebook.com/groups/taiwanbackendgroup/permalink/1162967947556758/
+* ChatGPT
 
 # 影片
 * 
