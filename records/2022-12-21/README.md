@@ -29,7 +29,7 @@
 * [0011 2022-11-30](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/11?closed=1)
 * [0012 2022-12-07](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/12?closed=1)
 * [0013 2022-12-14](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/13?closed=1)
-* [0014 2022-12-14](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/13?closed=1)
+* [0014 2022-12-21](https://github.com/PureFuncInc/purefunc-technique-weekly-news/milestone/14?closed=1)
 
 # 純函式社群尾牙
 * https://forms.gle/qvvpsMnaXns23M6k8
