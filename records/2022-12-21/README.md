@@ -38,4 +38,4 @@
 * [和艦長一起30天玩轉GitLab 二版](https://www.tenlong.com.tw/products/9786263332966)
 
 # 影片
-*
+* https://youtu.be/aOc-vQYCSUw
