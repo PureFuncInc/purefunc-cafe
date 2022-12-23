@@ -10,8 +10,8 @@
 
 # Record
 * [🎞 影片]() / [051 2022-12-28](records/2022-12-28/README.md)
-* [🎞 影片]() / [050 2022-12-21](records/2022-12-21/README.md)
-* [🎞 影片]() / [049 2022-12-14](records/2022-12-14/README.md)
+* [🎞 影片](https://youtu.be/aOc-vQYCSUw) / [050 2022-12-21](records/2022-12-21/README.md)
+* [🎞 影片](https://youtu.be/cqr8MZc--Ig) / [049 2022-12-14](records/2022-12-14/README.md)
 * [🎞 影片](https://youtu.be/1F8htfTOnvE) / [048 2022-12-07](records/2022-12-07/README.md)
 * [🎞 影片](https://youtu.be/BMMxFqbVAGw) / [047 2022-11-30](records/2022-11-30/README.md)
 * [🎞 影片](https://youtu.be/_1nxxb6sBOU) / [046 2022-11-23](records/2022-11-23/README.md)
