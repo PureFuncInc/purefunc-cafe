@@ -37,3 +37,7 @@
 
 # 影片
 * https://youtu.be/rjkT1ZbUg3o
+
+# 照片
+![IMG_1598](https://user-images.githubusercontent.com/6296280/211209796-e33a7a70-b121-4079-a3a3-4578a3566aca.jpg)
+![IMG_3241](https://user-images.githubusercontent.com/6296280/211209808-7067498d-6618-4e76-b575-be4d15a15a69.jpg)
